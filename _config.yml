@@ -15,7 +15,7 @@ name                     : &name "Yvain Tisserand, PhD"
 description              : &description "Senior researcher at University of Geneva"
 url                      : https://yvain-t.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yvain-t.github.io"
+repository               : "https://yvain-t.github.io/yvain-t.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

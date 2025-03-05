@@ -27,7 +27,7 @@ bibtexname: "zavlanou2024virtual"
 
 **Authors:**
  - Christina Zavlanou
- - ValentineS stacavary
+ - Valentine Savary
  - Stephanie Mermet
  - David Sander
  - Corrado Corradi-Dell’Acqua

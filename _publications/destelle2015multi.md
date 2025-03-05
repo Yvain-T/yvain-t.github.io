@@ -18,7 +18,7 @@ bibtexname: "destelle2015multi"
 We present a demonstration of a multi-modal 3D capturing platform coupled to a motion comparison system. This work is focused on the preservation of Traditional Sports and Games, namely the Gaelic sports from Ireland and Basque sports from France and Spain. Users can learn, compare and compete in the performance of sporting gestures and compare themselves to real athletes. Our online gesture database provides a way to preserve and display a wide range of sporting gestures. The capturing devices utilised are Kinect 2 sensors and wearable inertial sensors, where the number required varies based on the requested scenario. The fusion of these two capture modalities, coupled to our inverse kinematic algorithm, allow us to synthesize a fluid and reliable 3D model of the user gestures over time. Our novel comparison algorithms provide the user with a performance score and a set of comparison curves (i.e. joint angles and angular velocities), providing a precise and valuable feedback for coaches and players.
 
 **Authors:**
- - Fran{\c{c}}ois Destelle
+ - François Destelle
  - Amin Ahmadi
  - Kieran Moran
  - Noel E O'Connor
@@ -28,7 +28,7 @@ We present a demonstration of a multi-modal 3D capturing platform coupled to a m
  - Petros Daras
  - Luis Unzueta
  - Jon Goenetxea
- - others
+ - Yvain Tisserand
 
 ```bibtex
 @inproceedings{destelle2015multi,

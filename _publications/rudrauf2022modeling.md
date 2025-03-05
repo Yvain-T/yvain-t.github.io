@@ -1,5 +1,6 @@
 ---
 title: "Modeling the subjective perspective of consciousness and its role in the control of behaviours"
+authors: 'Rudrauf, D., Sergeant-Perthuis, G., Belli, O., Tisserand, Y. & Serugendo, G.'
 collection: publications
 category: manuscripts
 permalink: /publication/rudrauf2022modeling

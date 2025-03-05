@@ -1,5 +1,6 @@
 ---
 title: "Refurbish a single user 3D application into a multi-user distributed service: a case study"
+authors: 'Nijdam, N., Tisserand, Y. & Magnenat-Thalmann, N.'
 collection: publications
 category: manuscripts
 permalink: /publication/nijdam2013refurbish

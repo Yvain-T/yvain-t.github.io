@@ -1,5 +1,6 @@
 ---
 title: "A multi-modal 3d capturing platform for learning and preservation of traditional sports and games"
+authors: 'Destelle, F., Ahmadi, A., Moran, K., O''Connor, N., Zioulis, N., Chatzitofis, A., Zarpalas, D., Daras, P., Unzueta, L., Goenetxea, J. & others'
 collection: publications
 category: manuscripts
 permalink: /publication/destelle2015multi

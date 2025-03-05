@@ -1,5 +1,6 @@
 ---
 title: "Combining the Projective Consciousness Model and Virtual Humans for immersive psychological research: A proof-of-concept simulating a ToM assessment"
+authors: 'Rudrauf, D., Sergeant-Perhtuis, G., Tisserand, Y., Monnor, T., De Gevigney, V. & Belli, O.'
 collection: publications
 category: manuscripts
 permalink: /publication/rudrauf2023combining

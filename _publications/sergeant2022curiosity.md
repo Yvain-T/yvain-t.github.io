@@ -1,5 +1,6 @@
 ---
 title: "Curiosity driven exploration through perspective transformation"
+authors: 'Sergeant-Perthuis, G., Rudrauf, D. & Tisserand, Y.'
 collection: publications
 category: manuscripts
 permalink: /publication/sergeant2022curiosity

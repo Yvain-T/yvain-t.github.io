@@ -1,5 +1,6 @@
 ---
 title: "Automatic 3D garment positioning based on surface metric"
+authors: 'Tisserand, Y., Cuel, L. & Magnenat-Thalmann, N.'
 collection: publications
 category: manuscripts
 permalink: /publication/tisserand2017automatic

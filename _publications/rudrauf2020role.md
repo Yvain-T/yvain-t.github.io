@@ -1,5 +1,6 @@
 ---
 title: "The role of consciousness in biological cybernetics: emergent adaptive and maladaptive behaviours in artificial agents governed by the projective consciousness model"
+authors: 'Rudrauf, D., Sergeant-Perthuis, G., Belli, O., Tisserand, Y. & Serugendo, G.'
 collection: publications
 category: manuscripts
 permalink: /publication/rudrauf2020role

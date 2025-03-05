@@ -1,5 +1,6 @@
 ---
 title: "Virtual reality vs. tablet for procedural comfort using an identical game in children undergoing venipuncture: a randomized clinical trial"
+authors: 'Zavlanou, C., Savary, V., Mermet, S., Sander, D., Corradi-Dell’Acqua, C., Rudrauf, D., Tisserand, Y. & Sahyoun, C.'
 collection: publications
 category: manuscripts
 permalink: /publication/zavlanou2024virtual

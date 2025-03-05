@@ -1,5 +1,6 @@
 ---
 title: "Real-time simulation of virtual humans' emotional facial expressions, harnessing autonomic physiological and musculoskeletal control"
+authors: 'Tisserand, Y., Aylett, R., Mortillaro, M. & Rudrauf, D.'
 collection: publications
 category: manuscripts
 permalink: /publication/tisserand2020real

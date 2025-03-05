@@ -1,5 +1,6 @@
 ---
 title: "Procedurally Generated Age-related Visual Deficits in Virtual Reality Environments."
+authors: 'Zavlanou, C., Huber, P., Tisserand, Y., Rudrauf, D. & Lanitis, A.'
 collection: publications
 category: manuscripts
 permalink: /publication/zavlanou2021procedurally

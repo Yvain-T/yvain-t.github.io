@@ -1,5 +1,6 @@
 ---
 title: "Action of the Euclidean versus Projective group on an agent's internal space in curiosity driven exploration: a formal analysis"
+authors: 'Sergeant-Perthuis, G., Rudrauf, D., Ognibene, D. & Tisserand, Y.'
 collection: publications
 category: manuscripts
 permalink: /publication/sergeant2023action

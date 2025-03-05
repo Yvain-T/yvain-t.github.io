@@ -1,5 +1,6 @@
 ---
 title: "Fast Prototyping and Deformation of Virtual Humans"
+authors: 'Tisserand, Y.'
 collection: publications
 category: manuscripts
 permalink: /publication/tisserand2018fast

@@ -1,5 +1,6 @@
 ---
 title: "Interactive games for preservation and promotion of sporting movements"
+authors: 'O''Connor, N., Tisserand, Y., Chatzitofis, A., Destelle, F., Goenetxea, J., Unzueta, L., Zarpalas, D., Daras, P., Linaza, M., Moran, K. & others'
 collection: publications
 category: manuscripts
 permalink: /publication/o2014interactive

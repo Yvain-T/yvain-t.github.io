@@ -1,5 +1,6 @@
 ---
 title: "Combining the Projective Consciousness Model and Virtual Humans to assess ToM capacity in Virtual Reality: a proof-of-concept"
+authors: 'Rudrauf, D., Sergeant-Perthuis, G., Tisserand, Y., Monnor, T. & Belli, O.'
 collection: publications
 category: manuscripts
 permalink: /publication/rudrauf2021combining

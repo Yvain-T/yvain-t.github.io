@@ -1,5 +1,6 @@
 ---
 title: "Preservation and gamification of traditional sports"
+authors: 'Tisserand, Y., Magnenat-Thalmann, N., Unzueta, L., Linaza, M., Ahmadi, A., O’Connor, N., Zioulis, N., Zarpalas, D. & Daras, P.'
 collection: publications
 category: manuscripts
 permalink: /publication/tisserand2017preservation

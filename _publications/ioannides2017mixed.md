@@ -1,5 +1,6 @@
 ---
 title: "Mixed reality and gamification for cultural heritage"
+authors: 'Ioannides, M., Magnenat-Thalmann, N. & Papagiannakis, G.'
 collection: publications
 category: manuscripts
 permalink: /publication/ioannides2017mixed

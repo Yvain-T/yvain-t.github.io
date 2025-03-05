@@ -1,5 +1,6 @@
 ---
 title: "RECHERCHE APPROFONDIE EN PSYCHOLOGIE PSYCHOLOGIE AFFECTIVE PSYCHOLOGIE COGNITIVE"
+authors: 'Isabelle, R., Rudrauf, D., Tisserand, Y. & Debban{\''e}, M.'
 collection: publications
 category: manuscripts
 permalink: /publication/isabellerecherche

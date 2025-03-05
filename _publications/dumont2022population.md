@@ -1,5 +1,6 @@
 ---
 title: "A population-based serological study of post-COVID syndrome prevalence and risk factors in children and adolescents"
+authors: 'Dumont, R., Richard, V., Lorthe, E., Loizeau, A., Pennacchio, F., Zaballa, M., Baysson, H., Nehme, M., Perrin, A., L’Huillier, A. & others'
 collection: publications
 category: manuscripts
 permalink: /publication/dumont2022population

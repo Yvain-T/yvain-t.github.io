@@ -1,5 +1,6 @@
 ---
 title: "Impact of the COVID-19 pandemic on children and adolescents: determinants and association with quality of life and mental health—a cross-sectional study"
+authors: 'Richard, V., Dumont, R., Lorthe, E., Loizeau, A., Baysson, H., Zaballa, M., Pennacchio, F., Barbe, R., Posfay-Barbe, K., Guessous, I. & others'
 collection: publications
 category: manuscripts
 permalink: /publication/richard2023impact

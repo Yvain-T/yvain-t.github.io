@@ -1,5 +1,6 @@
 ---
 title: "Socioeconomic conditions and children's mental health and quality of life during the COVID-19 pandemic: An intersectional analysis"
+authors: 'Lorthe, E., Richard, V., Dumont, R., Loizeau, A., Perez-Saez, J., Baysson, H., Zaballa, M., Lamour, J., Pullen, N., Schrempft, S. & others'
 collection: publications
 category: manuscripts
 permalink: /publication/lorthe2023socioeconomic

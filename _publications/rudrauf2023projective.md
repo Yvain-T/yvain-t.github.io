@@ -1,5 +1,6 @@
 ---
 title: "The Projective Consciousness Model: projective geometry at the core of consciousness and the integration of perception, imagination, motivation, emotion, social cognition and action"
+authors: 'Rudrauf, D., Sergeant-Perthuis, G., Tisserand, Y., Poloudenny, G., Williford, K. & Amorim, M.'
 collection: publications
 category: manuscripts
 permalink: /publication/rudrauf2023projective

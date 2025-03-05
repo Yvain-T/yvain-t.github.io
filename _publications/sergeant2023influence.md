@@ -1,5 +1,6 @@
 ---
 title: "Influence of the geometry of the feature space on curiosity based exploration"
+authors: 'Sergeant-Perthuis, G., Ruet, N., Rudrauf, D., Ognibene, D., Tisserand, Y. & others'
 collection: publications
 category: manuscripts
 permalink: /publication/sergeant2023influence

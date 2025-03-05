@@ -8,13 +8,13 @@ date: 2022-01-01
 venue: ""
 slidesurl: ""
 paperurl: ""
-citation: "Sergeant-Perthuis, G., Rudrauf, D. & Tisserand, Y. (2022). "Curiosity driven exploration through perspective transformation." ."
+citation: 'Sergeant-Perthuis, G., Rudrauf, D. & Tisserand, Y. (2022). "Curiosity driven exploration through perspective transformation." .'
 bibtexname: "sergeant2022curiosity"
 ---
 
 Here is an animated demonstration of the paper in action:
 
-![sergeant2022curiosity GIF]({ '{' } '/files/sergeant2022curiosity.gif' | absolute_url { '}' })
+![sergeant2022curiosity GIF]({{ '/files/sergeant2022curiosity.gif' | absolute_url }})
 
 Some more details about the paper go here.
 

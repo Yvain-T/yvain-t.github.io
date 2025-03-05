@@ -8,13 +8,13 @@ date: 2022-01-01
 venue: "Journal of Theoretical Biology"
 slidesurl: ""
 paperurl: ""
-citation: "Rudrauf, D., Sergeant-Perthuis, G., Belli, O., Tisserand, Y. & Serugendo, G. (2022). "Modeling the subjective perspective of consciousness and its role in the control of behaviours." Journal of Theoretical Biology, 534. 110957."
+citation: 'Rudrauf, D., Sergeant-Perthuis, G., Belli, O., Tisserand, Y. & Serugendo, G. (2022). "Modeling the subjective perspective of consciousness and its role in the control of behaviours." Journal of Theoretical Biology, 534. 110957.'
 bibtexname: "rudrauf2022modeling"
 ---
 
 Here is an animated demonstration of the paper in action:
 
-![rudrauf2022modeling GIF]({ '{' } '/files/rudrauf2022modeling.gif' | absolute_url { '}' })
+![rudrauf2022modeling GIF]({{ '/files/rudrauf2022modeling.gif' | absolute_url }})
 
 Some more details about the paper go here.
 

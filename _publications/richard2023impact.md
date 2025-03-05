@@ -8,13 +8,13 @@ date: 2023-01-01
 venue: "Child and Adolescent Psychiatry and Mental Health"
 slidesurl: ""
 paperurl: ""
-citation: "Richard, V., Dumont, R., Lorthe, E., Loizeau, A., Baysson, H., Zaballa, M., Pennacchio, F., Barbe, R., Posfay-Barbe, K., Guessous, I. & others (2023). "Impact of the COVID-19 pandemic on children and adolescents: determinants and association with quality of life and mental health—a cross-sectional study." Child and Adolescent Psychiatry and Mental Health, 17(1). 17."
+citation: 'Richard, V., Dumont, R., Lorthe, E., Loizeau, A., Baysson, H., Zaballa, M., Pennacchio, F., Barbe, R., Posfay-Barbe, K., Guessous, I. & others (2023). "Impact of the COVID-19 pandemic on children and adolescents: determinants and association with quality of life and mental health—a cross-sectional study." Child and Adolescent Psychiatry and Mental Health, 17(1). 17.'
 bibtexname: "richard2023impact"
 ---
 
 Here is an animated demonstration of the paper in action:
 
-![richard2023impact GIF]({ '{' } '/files/richard2023impact.gif' | absolute_url { '}' })
+![richard2023impact GIF]({{ '/files/richard2023impact.gif' | absolute_url }})
 
 Some more details about the paper go here.
 

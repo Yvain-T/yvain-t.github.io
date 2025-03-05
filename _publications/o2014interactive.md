@@ -8,13 +8,13 @@ date: 2014-01-01
 venue: "2014 22nd European signal processing conference (EUSIPCO)"
 slidesurl: ""
 paperurl: ""
-citation: "O'Connor, N., Tisserand, Y., Chatzitofis, A., Destelle, F., Goenetxea, J., Unzueta, L., Zarpalas, D., Daras, P., Linaza, M., Moran, K. & others (2014). "Interactive games for preservation and promotion of sporting movements." 2014 22nd European signal processing conference (EUSIPCO). 351--355."
+citation: 'O''Connor, N., Tisserand, Y., Chatzitofis, A., Destelle, F., Goenetxea, J., Unzueta, L., Zarpalas, D., Daras, P., Linaza, M., Moran, K. & others (2014). "Interactive games for preservation and promotion of sporting movements." 2014 22nd European signal processing conference (EUSIPCO). 351--355.'
 bibtexname: "o2014interactive"
 ---
 
 Here is an animated demonstration of the paper in action:
 
-![o2014interactive GIF]({ '{' } '/files/o2014interactive.gif' | absolute_url { '}' })
+![o2014interactive GIF]({{ '/files/o2014interactive.gif' | absolute_url }})
 
 Some more details about the paper go here.
 

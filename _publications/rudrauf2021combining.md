@@ -8,13 +8,13 @@ date: 2021-01-01
 venue: "arXiv preprint arXiv:2104.07053"
 slidesurl: ""
 paperurl: ""
-citation: "Rudrauf, D., Sergeant-Perthuis, G., Tisserand, Y., Monnor, T. & Belli, O. (2021). "Combining the Projective Consciousness Model and Virtual Humans to assess ToM capacity in Virtual Reality: a proof-of-concept." arXiv preprint arXiv:2104.07053."
+citation: 'Rudrauf, D., Sergeant-Perthuis, G., Tisserand, Y., Monnor, T. & Belli, O. (2021). "Combining the Projective Consciousness Model and Virtual Humans to assess ToM capacity in Virtual Reality: a proof-of-concept." arXiv preprint arXiv:2104.07053.'
 bibtexname: "rudrauf2021combining"
 ---
 
 Here is an animated demonstration of the paper in action:
 
-![rudrauf2021combining GIF]({ '{' } '/files/rudrauf2021combining.gif' | absolute_url { '}' })
+![rudrauf2021combining GIF]({{ '/files/rudrauf2021combining.gif' | absolute_url }})
 
 Some more details about the paper go here.
 

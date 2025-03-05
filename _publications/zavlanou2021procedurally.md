@@ -8,13 +8,13 @@ date: 2021-01-01
 venue: "ICAT-EGVE"
 slidesurl: ""
 paperurl: ""
-citation: "Zavlanou, C., Huber, P., Tisserand, Y., Rudrauf, D. & Lanitis, A. (2021). "Procedurally Generated Age-related Visual Deficits in Virtual Reality Environments.." ICAT-EGVE. 19--24."
+citation: 'Zavlanou, C., Huber, P., Tisserand, Y., Rudrauf, D. & Lanitis, A. (2021). "Procedurally Generated Age-related Visual Deficits in Virtual Reality Environments.." ICAT-EGVE. 19--24.'
 bibtexname: "zavlanou2021procedurally"
 ---
 
 Here is an animated demonstration of the paper in action:
 
-![zavlanou2021procedurally GIF]({ '{' } '/files/zavlanou2021procedurally.gif' | absolute_url { '}' })
+![zavlanou2021procedurally GIF]({{ '/files/zavlanou2021procedurally.gif' | absolute_url }})
 
 Some more details about the paper go here.
 

@@ -8,13 +8,13 @@ date: 2018-01-01
 venue: ""
 slidesurl: ""
 paperurl: ""
-citation: "Tisserand, Y. (2018). "Fast Prototyping and Deformation of Virtual Humans." ."
+citation: 'Tisserand, Y. (2018). "Fast Prototyping and Deformation of Virtual Humans." .'
 bibtexname: "tisserand2018fast"
 ---
 
 Here is an animated demonstration of the paper in action:
 
-![tisserand2018fast GIF]({ '{' } '/files/tisserand2018fast.gif' | absolute_url { '}' })
+![tisserand2018fast GIF]({{ '/files/tisserand2018fast.gif' | absolute_url }})
 
 Some more details about the paper go here.
 

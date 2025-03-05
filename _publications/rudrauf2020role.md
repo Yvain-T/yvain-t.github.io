@@ -8,13 +8,13 @@ date: 2020-01-01
 venue: "arXiv preprint arXiv:2012.12963"
 slidesurl: ""
 paperurl: ""
-citation: "Rudrauf, D., Sergeant-Perthuis, G., Belli, O., Tisserand, Y. & Serugendo, G. (2020). "The role of consciousness in biological cybernetics: emergent adaptive and maladaptive behaviours in artificial agents governed by the projective consciousness model." arXiv preprint arXiv:2012.12963."
+citation: 'Rudrauf, D., Sergeant-Perthuis, G., Belli, O., Tisserand, Y. & Serugendo, G. (2020). "The role of consciousness in biological cybernetics: emergent adaptive and maladaptive behaviours in artificial agents governed by the projective consciousness model." arXiv preprint arXiv:2012.12963.'
 bibtexname: "rudrauf2020role"
 ---
 
 Here is an animated demonstration of the paper in action:
 
-![rudrauf2020role GIF]({ '{' } '/files/rudrauf2020role.gif' | absolute_url { '}' })
+![rudrauf2020role GIF]({{ '/files/rudrauf2020role.gif' | absolute_url }})
 
 Some more details about the paper go here.
 

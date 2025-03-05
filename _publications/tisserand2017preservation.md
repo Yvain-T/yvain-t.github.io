@@ -8,13 +8,13 @@ date: 2017-01-01
 venue: "Mixed reality and gamification for cultural heritage"
 slidesurl: ""
 paperurl: ""
-citation: "Tisserand, Y., Magnenat-Thalmann, N., Unzueta, L., Linaza, M., Ahmadi, A., O’Connor, N., Zioulis, N., Zarpalas, D. & Daras, P. (2017). "Preservation and gamification of traditional sports." Mixed reality and gamification for cultural heritage. 421--446."
+citation: 'Tisserand, Y., Magnenat-Thalmann, N., Unzueta, L., Linaza, M., Ahmadi, A., O’Connor, N., Zioulis, N., Zarpalas, D. & Daras, P. (2017). "Preservation and gamification of traditional sports." Mixed reality and gamification for cultural heritage. 421--446.'
 bibtexname: "tisserand2017preservation"
 ---
 
 Here is an animated demonstration of the paper in action:
 
-![tisserand2017preservation GIF]({ '{' } '/files/tisserand2017preservation.gif' | absolute_url { '}' })
+![tisserand2017preservation GIF]({{ '/files/tisserand2017preservation.gif' | absolute_url }})
 
 Some more details about the paper go here.
 

@@ -8,13 +8,13 @@ date: 2017-01-01
 venue: "Computer Animation and Virtual Worlds"
 slidesurl: ""
 paperurl: ""
-citation: "Tisserand, Y., Cuel, L. & Magnenat-Thalmann, N. (2017). "Automatic 3D garment positioning based on surface metric." Computer Animation and Virtual Worlds, 28(3-4). e1770."
+citation: 'Tisserand, Y., Cuel, L. & Magnenat-Thalmann, N. (2017). "Automatic 3D garment positioning based on surface metric." Computer Animation and Virtual Worlds, 28(3-4). e1770.'
 bibtexname: "tisserand2017automatic"
 ---
 
 Here is an animated demonstration of the paper in action:
 
-![tisserand2017automatic GIF]({ '{' } '/files/tisserand2017automatic.gif' | absolute_url { '}' })
+![tisserand2017automatic GIF]({{ '/files/tisserand2017automatic.gif' | absolute_url }})
 
 Some more details about the paper go here.
 

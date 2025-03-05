@@ -8,13 +8,13 @@ date: 2023-01-01
 venue: "Brain Sciences"
 slidesurl: ""
 paperurl: ""
-citation: "Rudrauf, D., Sergeant-Perthuis, G., Tisserand, Y., Poloudenny, G., Williford, K. & Amorim, M. (2023). "The Projective Consciousness Model: projective geometry at the core of consciousness and the integration of perception, imagination, motivation, emotion, social cognition and action." Brain Sciences, 13(10). 1435."
+citation: 'Rudrauf, D., Sergeant-Perthuis, G., Tisserand, Y., Poloudenny, G., Williford, K. & Amorim, M. (2023). "The Projective Consciousness Model: projective geometry at the core of consciousness and the integration of perception, imagination, motivation, emotion, social cognition and action." Brain Sciences, 13(10). 1435.'
 bibtexname: "rudrauf2023projective"
 ---
 
 Here is an animated demonstration of the paper in action:
 
-![rudrauf2023projective GIF]({ '{' } '/files/rudrauf2023projective.gif' | absolute_url { '}' })
+![rudrauf2023projective GIF]({{ '/files/rudrauf2023projective.gif' | absolute_url }})
 
 Some more details about the paper go here.
 

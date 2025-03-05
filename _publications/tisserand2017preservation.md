@@ -8,16 +8,14 @@ excerpt: "Preservation and gamification of traditional sports"
 date: 2017-01-01
 venue: "Mixed reality and gamification for cultural heritage"
 slidesurl: ""
-paperurl: ""
+paperurl: "https://doi.org/10.1007/978-3-319-49607-8_17"
 citation: 'Tisserand, Y., Magnenat-Thalmann, N., Unzueta, L., Linaza, M., Ahmadi, A., O’Connor, N., Zioulis, N., Zarpalas, D. & Daras, P. (2017). "Preservation and gamification of traditional sports." Mixed reality and gamification for cultural heritage. 421--446.'
 bibtexname: "tisserand2017preservation"
 ---
 
-Here is an animated demonstration of the paper in action:
+![tisserand2017preservation GIF]({{ '/files/tisserand2017preservation.png' | absolute_url }})
 
-![tisserand2017preservation GIF]({{ '/files/tisserand2017preservation.gif' | absolute_url }})
-
-Some more details about the paper go here.
+This chapter reviews an example of preservation and gamification scenario applied to traditional sports. In the first section, we describe a preservation technique to capture intangible content. It includes character modelling, motion recording, and animation processing. The second section is focused on the gamification aspect. It describes an interactive scenario integrated in a platform that includes a multimodal capturing system, a motion comparison and analysis, and a semantic-based feedback system.
 
 **Authors:**
  - Yvain Tisserand

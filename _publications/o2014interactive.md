@@ -8,22 +8,22 @@ excerpt: "Interactive games for preservation and promotion of sporting movements
 date: 2014-01-01
 venue: "2014 22nd European signal processing conference (EUSIPCO)"
 slidesurl: ""
-paperurl: ""
+paperurl: "https://ieeexplore.ieee.org/document/6952069"
 citation: 'O''Connor, N., Tisserand, Y., Chatzitofis, A., Destelle, F., Goenetxea, J., Unzueta, L., Zarpalas, D., Daras, P., Linaza, M., Moran, K. & others (2014). "Interactive games for preservation and promotion of sporting movements." 2014 22nd European signal processing conference (EUSIPCO). 351--355.'
 bibtexname: "o2014interactive"
 ---
 
-Here is an animated demonstration of the paper in action:
+![o2014interactive GIF]({{ '/files/o2014interactive.png' | absolute_url }})
 
-![o2014interactive GIF]({{ '/files/o2014interactive.gif' | absolute_url }})
 
-Some more details about the paper go here.
+In this paper we describe two interactive applications for capturing the motion signatures associated with key skills of traditional sports and games. We first present the case for sport as an important example of intangible cultural heritage. We then explain that sport requires special consideration in terms of digitization for preservation as the key aspects to be digitized are the characteristic movement signatures of such sports. We explain that, given the nature of traditional sporting agencies, this requires low-cost motion capture technology. Furthermore we argue that in order to ensure ongoing preservation, this should be provided via fun interactive gaming scenarios that promote uptake of the sports, particularly among children. We then present two such games that we have developed and illustrate their performance.
+
 
 **Authors:**
  - Noel E O'Connor
  - Yvain Tisserand
  - Anargyros Chatzitofis
- - Fran{\c{c}}ois Destelle
+ - François Destelle
  - Jon Goenetxea
  - Luis Unzueta
  - Dimitrios Zarpalas

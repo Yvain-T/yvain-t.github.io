@@ -8,20 +8,19 @@ excerpt: "Combining the Projective Consciousness Model and Virtual Humans for im
 date: 2023-01-01
 venue: "ACM Transactions on Interactive Intelligent Systems"
 slidesurl: ""
-paperurl: ""
+paperurl: "https://doi.org/10.1145/3583886"
 citation: 'Rudrauf, D., Sergeant-Perhtuis, G., Tisserand, Y., Monnor, T., De Gevigney, V. & Belli, O. (2023). "Combining the Projective Consciousness Model and Virtual Humans for immersive psychological research: A proof-of-concept simulating a ToM assessment." ACM Transactions on Interactive Intelligent Systems, 13(2). 1--31.'
 bibtexname: "rudrauf2023combining"
 ---
 
-Here is an animated demonstration of the paper in action:
+![rudrauf2023combining GIF]({{ '/files/rudrauf2023combining.png' | absolute_url }})
 
-![rudrauf2023combining GIF]({{ '/files/rudrauf2023combining.gif' | absolute_url }})
+Relating explicit psychological mechanisms and observable behaviours is a central aim of psychological and behavioural science. One of the challenges is to understand and model the role of consciousness and, in particular, its subjective perspective as an internal level of representation (including for social cognition) in the governance of behaviour. Toward this aim, we implemented the principles of the Projective Consciousness Model (PCM) into artificial agents embodied as virtual humans, extending a previous implementation of the model. Our goal was to offer a proof-of-concept, based purely on simulations, as a basis for a future methodological framework. Its overarching aim is to be able to assess hidden psychological parameters in human participants, based on a model relevant to consciousness research, in the context of experiments in virtual reality. As an illustration of the approach, we focused on simulating the role of Theory of Mind (ToM) in the choice of strategic behaviours of approach and avoidance to optimise the satisfaction of agents’ preferences. We designed a main experiment in a virtual environment that could be used with real humans, allowing us to classify behaviours as a function of order of ToM, up to the second order. We show that agents using the PCM demonstrated expected behaviours with consistent parameters of ToM in this experiment. We also show that the agents could be used to estimate correctly each other’s order of ToM. Furthermore, in a supplementary experiment, we demonstrated how the agents could simultaneously estimate order of ToM and preferences attributed to others to optimize behavioural outcomes. Future studies will empirically assess and fine tune the framework with real humans in virtual reality experiments.
 
-Some more details about the paper go here.
 
 **Authors:**
  - David Rudrauf
- - Gr{\'e}goire Sergeant-Perhtuis
+ - Grègoire Sergeant-Perhtuis
  - Yvain Tisserand
  - Teerawat Monnor
  - V De Gevigney

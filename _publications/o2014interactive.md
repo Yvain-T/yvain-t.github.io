@@ -19,6 +19,19 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Noel E O'Connor
+ - Yvain Tisserand
+ - Anargyros Chatzitofis
+ - Fran{\c{c}}ois Destelle
+ - Jon Goenetxea
+ - Luis Unzueta
+ - Dimitrios Zarpalas
+ - Petros Daras
+ - Mariate Linaza
+ - Kieran Moran
+ - others
+
 ```bibtex
 @inproceedings{o2014interactive,
   organization={ IEEE },

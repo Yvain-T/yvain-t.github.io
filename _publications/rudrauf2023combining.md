@@ -19,6 +19,14 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - David Rudrauf
+ - Gr{\'e}goire Sergeant-Perhtuis
+ - Yvain Tisserand
+ - Teerawat Monnor
+ - V De Gevigney
+ - Olivier Belli
+
 ```bibtex
 @article{rudrauf2023combining,
   publisher={ ACM New York, NY },

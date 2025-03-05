@@ -19,6 +19,9 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Yvain Tisserand
+
 ```bibtex
 @phdthesis{tisserand2018fast,
   school={ {\'e}diteur non identifi{\'e} },

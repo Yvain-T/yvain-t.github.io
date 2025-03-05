@@ -19,6 +19,14 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Gr{\'e}goire Sergeant-Perthuis
+ - Nils Ruet
+ - Dimitri Ognibene
+ - Yvain Tisserand
+ - Kenneth Williford
+ - David Rudrauf
+
 ```bibtex
 @article{sergeant2025action,
   publisher={ Springer Berlin Heidelberg },

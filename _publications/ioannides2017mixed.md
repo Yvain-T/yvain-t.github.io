@@ -19,6 +19,11 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Marinos Ioannides
+ - Nadia Magnenat-Thalmann
+ - George Papagiannakis
+
 ```bibtex
 @book{ioannides2017mixed,
   publisher={ Springer },

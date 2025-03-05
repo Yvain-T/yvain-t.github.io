@@ -19,6 +19,13 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - David Rudrauf
+ - G Sergeant-Perthuis
+ - O Belli
+ - Y Tisserand
+ - G Di Marzo Serugendo
+
 ```bibtex
 @article{rudrauf2022modeling,
   publisher={ Academic Press },

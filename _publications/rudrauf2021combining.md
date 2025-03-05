@@ -19,6 +19,13 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - David Rudrauf
+ - Gr{\'e}goire Sergeant-Perthuis
+ - Yvain Tisserand
+ - Teerawat Monnor
+ - Olivier Belli
+
 ```bibtex
 @article{rudrauf2021combining,
   year={ 2021 },

@@ -19,6 +19,19 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Viviane Richard
+ - Roxane Dumont
+ - Elsa Lorthe
+ - Andrea Loizeau
+ - H{\'e}l{\`e}ne Baysson
+ - Mar{\'\i}a-Eugenia Zaballa
+ - Francesco Pennacchio
+ - R{\'e}my P Barbe
+ - Klara M Posfay-Barbe
+ - Idris Guessous
+ - others
+
 ```bibtex
 @article{richard2023impact,
   publisher={ Springer },

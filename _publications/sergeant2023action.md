@@ -19,6 +19,12 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Gregoire Sergeant-Perthuis
+ - David Rudrauf
+ - Dimitri Ognibene
+ - Yvain Tisserand
+
 ```bibtex
 @article{sergeant2023action,
   year={ 2023 },

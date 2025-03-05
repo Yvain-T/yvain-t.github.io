@@ -19,6 +19,12 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - RAMBOSSON Isabelle
+ - D Rudrauf
+ - Y Tisserand
+ - M Debban{\'e}
+
 ```bibtex
 @article{isabellerecherche,
   author={ Isabelle, RAMBOSSON and Rudrauf, D and Tisserand, Y and Debban{\'e}, M },

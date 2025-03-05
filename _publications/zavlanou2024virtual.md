@@ -19,6 +19,16 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Christina Zavlanou
+ - Valentine Savary
+ - Stephanie Mermet
+ - David Sander
+ - Corrado Corradi-Dell’Acqua
+ - David Rudrauf
+ - Yvain Tisserand
+ - Cyril Sahyoun
+
 ```bibtex
 @article{zavlanou2024virtual,
   publisher={ Frontiers Media SA },

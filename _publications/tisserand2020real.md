@@ -19,6 +19,12 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Yvain Tisserand
+ - Ruth Aylett
+ - Marcello Mortillaro
+ - David Rudrauf
+
 ```bibtex
 @inproceedings{tisserand2020real,
   year={ 2020 },

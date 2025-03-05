@@ -19,6 +19,11 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Gr{\'e}goire Sergeant-Perthuis
+ - David Rudrauf
+ - Yvain Tisserand
+
 ```bibtex
 @article{sergeant2022curiosity,
   year={ 2022 },

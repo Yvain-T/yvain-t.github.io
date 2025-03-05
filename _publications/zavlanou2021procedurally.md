@@ -19,6 +19,13 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Christina Zavlanou
+ - Philippe Huber
+ - Yvain Tisserand
+ - David Rudrauf
+ - Andreas Lanitis
+
 ```bibtex
 @inproceedings{zavlanou2021procedurally,
   year={ 2021 },

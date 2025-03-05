@@ -19,6 +19,11 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Yvain Tisserand
+ - Louis Cuel
+ - Nadia Magnenat-Thalmann
+
 ```bibtex
 @article{tisserand2017automatic,
   publisher={ Wiley Online Library },

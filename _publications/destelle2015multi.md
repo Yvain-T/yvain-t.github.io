@@ -19,6 +19,19 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Fran{\c{c}}ois Destelle
+ - Amin Ahmadi
+ - Kieran Moran
+ - Noel E O'Connor
+ - Nikolaos Zioulis
+ - Anargyros Chatzitofis
+ - Dimitrios Zarpalas
+ - Petros Daras
+ - Luis Unzueta
+ - Jon Goenetxea
+ - others
+
 ```bibtex
 @inproceedings{destelle2015multi,
   year={ 2015 },

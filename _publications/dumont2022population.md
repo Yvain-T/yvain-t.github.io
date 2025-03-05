@@ -19,6 +19,19 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Roxane Dumont
+ - Viviane Richard
+ - Elsa Lorthe
+ - Andrea Loizeau
+ - Francesco Pennacchio
+ - Mar{\'\i}a-Eugenia Zaballa
+ - H{\'e}l{\`e}ne Baysson
+ - Mayssam Nehme
+ - Anne Perrin
+ - Arnaud G L’Huillier
+ - others
+
 ```bibtex
 @article{dumont2022population,
   publisher={ Nature Publishing Group UK London },

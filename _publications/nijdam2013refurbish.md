@@ -19,6 +19,11 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Niels A Nijdam
+ - Yvain Tisserand
+ - Nadia Magnenat-Thalmann
+
 ```bibtex
 @inproceedings{nijdam2013refurbish,
   year={ 2013 },

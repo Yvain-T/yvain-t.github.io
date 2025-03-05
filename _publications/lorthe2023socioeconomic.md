@@ -19,6 +19,19 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Elsa Lorthe
+ - Viviane Richard
+ - Roxane Dumont
+ - Andrea Loizeau
+ - Javier Perez-Saez
+ - H{\'e}lene Baysson
+ - Maria-Eugenia Zaballa
+ - Julien Lamour
+ - Nick Pullen
+ - Stephanie Schrempft
+ - others
+
 ```bibtex
 @article{lorthe2023socioeconomic,
   publisher={ Elsevier },

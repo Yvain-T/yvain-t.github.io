@@ -19,6 +19,17 @@ Here is an animated demonstration of the paper in action:
 
 Some more details about the paper go here.
 
+**Authors:**
+ - Yvain Tisserand
+ - Nadia Magnenat-Thalmann
+ - Luis Unzueta
+ - Maria T Linaza
+ - Amin Ahmadi
+ - Noel E O’Connor
+ - Nikolaos Zioulis
+ - Dimitrios Zarpalas
+ - Petros Daras
+
 ```bibtex
 @article{tisserand2017preservation,
   publisher={ Springer International Publishing },

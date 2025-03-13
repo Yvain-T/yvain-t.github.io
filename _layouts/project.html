@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 ---
 
 <h1>{{ page.title }}</h1>
@@ -9,12 +9,15 @@ layout: default
 <p>{{ page.abstract }}</p>
 
 <h2>Related Publications</h2>
-<ul>
-  {% for pub in page.related_publications %}
-    {% for post in site.publications %}
-      {% if post.bibtexname == pub %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endif %}
+
+{% assign related_pubs = site.publications | where_exp: "pub", "pub.projects contains page.shortname" %}
+
+{% if related_pubs.size > 0 %}
+  <ul>
+    {% for pub in related_pubs %}
+      <li><a href="{{ pub.url }}">{{ pub.title }}</a></li>
     {% endfor %}
-  {% endfor %}
-</ul>
+  </ul>
+{% else %}
+  <p>No related publications found.</p>
+{% endif %}

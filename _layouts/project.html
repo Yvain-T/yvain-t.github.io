@@ -7,8 +7,6 @@ layout: archive
 
 <p>{{ page.abstract }}</p>
 
-<h2>Related Publications</h2>
-
 {% assign related_pubs = site.publications | where_exp: "pub", "pub.projects contains page.shortname" %}
 
 {% if related_pubs.size > 0 %}

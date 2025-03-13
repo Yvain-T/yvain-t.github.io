@@ -59,6 +59,15 @@ layout: default
           <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
         {% endif %}
 
+        {% if page.projects %}
+          <h3>Related Projects</h3>
+          <ul>
+            {% for project in page.projects %}
+              <li>{{ project }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+        
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 

@@ -24,7 +24,7 @@ Consciousness has been described as acting as a global workspace that integrates
 
 **Authors:**
  - David Rudrauf
- - Grègoire Sergeant-Perthuis
+ - Grégoire Sergeant-Perthuis
  - Yvain Tisserand
  - Germain Poloudenny
  - Kenneth Williford

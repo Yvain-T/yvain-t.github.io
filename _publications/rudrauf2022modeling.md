@@ -22,7 +22,7 @@ Consciousness has been hypothesized to operate as a global workspace, which acce
 
 **Authors:**
  - David Rudrauf
- - Grègoire Sergeant-Perthuis
+ - Grégoire Sergeant-Perthuis
  - Olivier Belli
  - Yvain Tisserand
  - Giovanna Di Marzo Serugendo

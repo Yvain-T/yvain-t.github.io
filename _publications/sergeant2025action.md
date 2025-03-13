@@ -23,7 +23,7 @@ According to the Projective Consciousness Model (PCM), in human spatial awarenes
 
 
 **Authors:**
- - Grègoire Sergeant-Perthuis
+ - Grégoire Sergeant-Perthuis
  - Nils Ruet
  - Dimitri Ognibene
  - Yvain Tisserand

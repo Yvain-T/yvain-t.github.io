@@ -11,6 +11,11 @@ slidesurl: ""
 paperurl: "https://doi.org/10.3389/fped.2024.1378459"
 citation: 'Zavlanou, C., Savary, V., Mermet, S., Sander, D., Corradi-Dell’Acqua, C., Rudrauf, D., Tisserand, Y. & Sahyoun, C. (2024). "Virtual reality vs. tablet for procedural comfort using an identical game in children undergoing venipuncture: a randomized clinical trial." Frontiers in Pediatrics, 12. 1378459.'
 bibtexname: "zavlanou2024virtual"
+projects: 
+  - "VirtualReality"
+  - "Medical"
+
+
 ---
 
 

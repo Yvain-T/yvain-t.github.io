@@ -11,6 +11,9 @@ slidesurl: ""
 paperurl: "https://doi.org/10.1007/978-3-319-49607-8_17"
 citation: 'Tisserand, Y., Magnenat-Thalmann, N., Unzueta, L., Linaza, M., Ahmadi, A., O’Connor, N., Zioulis, N., Zarpalas, D. & Daras, P. (2017). "Preservation and gamification of traditional sports." Mixed reality and gamification for cultural heritage. 421--446.'
 bibtexname: "tisserand2017preservation"
+projects: 
+  - "CulturalHeritage"
+
 ---
 
 ![tisserand2017preservation GIF]({{ '/files/tisserand2017preservation.png' | absolute_url }})

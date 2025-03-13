@@ -11,6 +11,10 @@ slidesurl: ""
 paperurl: "https://doi.org/10.1145/3383652.342390"
 citation: 'Tisserand, Y., Aylett, R., Mortillaro, M. & Rudrauf, D. (2020). "Real-time simulation of virtual humans'' emotional facial expressions, harnessing autonomic physiological and musculoskeletal control." Proceedings of the 20th ACM International Conference on Intelligent Virtual Agents. 1--8.'
 bibtexname: "tisserand2020real"
+projects: 
+  - "VirtualHuman"
+
+
 ---
 
 ![tisserand2020real GIF]({{ '/files/tisserand2020real.png' | absolute_url }})

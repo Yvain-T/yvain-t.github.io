@@ -11,6 +11,10 @@ slidesurl: ""
 paperurl: "https://doi.org/10.1002/cav.1770"
 citation: 'Tisserand, Y., Cuel, L. & Magnenat-Thalmann, N. (2017). "Automatic 3D garment positioning based on surface metric." Computer Animation and Virtual Worlds, 28(3-4). e1770.'
 bibtexname: "tisserand2017automatic"
+projects: 
+  - "VirtualClothing"
+  - "VirtualHuman"
+
 ---
 
 ![tisserand2017automatic GIF]({{ '/files/tisserand2017automatic.png' | absolute_url }})

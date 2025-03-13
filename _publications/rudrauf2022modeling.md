@@ -11,6 +11,9 @@ slidesurl: ""
 paperurl: "https://doi.org/10.1016/j.jtbi.2021.110957"
 citation: 'Rudrauf, D., Sergeant-Perthuis, G., Belli, O., Tisserand, Y. & Serugendo, G. (2022). "Modeling the subjective perspective of consciousness and its role in the control of behaviours." Journal of Theoretical Biology, 534. 110957.'
 bibtexname: "rudrauf2022modeling"
+projects: 
+  - "ConsciousnessModel"
+
 ---
 
 ![rudrauf2022modeling GIF]({{ '/files/rudrauf2022modeling.png' | absolute_url }})

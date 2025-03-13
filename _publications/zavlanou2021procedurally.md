@@ -11,6 +11,11 @@ slidesurl: ""
 paperurl: "https://doi.org/10.2312/egve.20211323"
 citation: 'Zavlanou, C., Huber, P., Tisserand, Y., Rudrauf, D. & Lanitis, A. (2021). "Procedurally Generated Age-related Visual Deficits in Virtual Reality Environments.." ICAT-EGVE. 19--24.'
 bibtexname: "zavlanou2021procedurally"
+projects: 
+  - "VirtualReality"
+  - "Medical"
+
+
 ---
 
 ![zavlanou2021procedurally GIF]({{ '/files/zavlanou2021procedurally.png' | absolute_url }})

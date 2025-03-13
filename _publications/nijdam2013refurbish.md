@@ -11,6 +11,9 @@ slidesurl: ""
 paperurl: "https://dl.acm.org/doi/10.1145/2503713.2503721"
 citation: 'Nijdam, N., Tisserand, Y. & Magnenat-Thalmann, N. (2013). "Refurbish a single user 3D application into a multi-user distributed service: a case study." Proceedings of the 19th ACM Symposium on Virtual Reality Software and Technology. 193--200.'
 bibtexname: "nijdam2013refurbish"
+projects: 
+  - "VirtualClothing"
+
 ---
 
 ![nijdam2013refurbish GIF]({{ '/files/nijdam2013refurbish.png' | absolute_url }})

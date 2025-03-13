@@ -11,6 +11,9 @@ slidesurl: ""
 paperurl: "https://doi.org/10.1007/s00422-024-01001-1"
 citation: 'Sergeant-Perthuis, G., Ruet, N., Ognibene, D., Tisserand, Y., Williford, K. & Rudrauf, D. (2025). "Action of the Euclidean versus projective group on an agent’s internal space in curiosity driven exploration." Biological Cybernetics, 119(1). 1--18.'
 bibtexname: "sergeant2025action"
+projects: 
+  - "ConsciousnessModel"
+
 ---
 
 

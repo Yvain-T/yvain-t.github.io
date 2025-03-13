@@ -11,6 +11,11 @@ slidesurl: ""
 paperurl: "https://doi.org/10.1145/3583886"
 citation: 'Rudrauf, D., Sergeant-Perhtuis, G., Tisserand, Y., Monnor, T., De Gevigney, V. & Belli, O. (2023). "Combining the Projective Consciousness Model and Virtual Humans for immersive psychological research: A proof-of-concept simulating a ToM assessment." ACM Transactions on Interactive Intelligent Systems, 13(2). 1--31.'
 bibtexname: "rudrauf2023combining"
+projects: 
+  - "VirtualHuman"
+  - "ConsciousnessModel"
+
+
 ---
 
 ![rudrauf2023combining GIF]({{ '/files/rudrauf2023combining.jpg' | absolute_url }})

@@ -11,6 +11,9 @@ slidesurl: ""
 paperurl: "https://dl.acm.org/doi/10.1145/2733373.2807975"
 citation: 'Destelle, F., Ahmadi, A., Moran, K., O''Connor, N., Zioulis, N., Chatzitofis, A., Zarpalas, D., Daras, P., Unzueta, L., Goenetxea, J. & others (2015). "A multi-modal 3d capturing platform for learning and preservation of traditional sports and games." Proceedings of the 23rd ACM international conference on Multimedia. 747--748.'
 bibtexname: "destelle2015multi"
+projects: 
+  - "CulturalHeritage"
+
 ---
 
 ![destelle2015multi GIF]({{ '/files/destelle2015multi.png' | absolute_url }})

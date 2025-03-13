@@ -11,6 +11,10 @@ slidesurl: ""
 paperurl: "10.13097/archive-ouverte/unige:105665"
 citation: 'Tisserand, Y. (2018). "Fast Prototyping and Deformation of Virtual Humans." .'
 bibtexname: "tisserand2018fast"
+projects: 
+  - "VirtualHuman"
+
+
 ---
 
 

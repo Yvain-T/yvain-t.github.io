@@ -11,6 +11,9 @@ slidesurl: ""
 paperurl: "https://ieeexplore.ieee.org/document/6952069"
 citation: 'O''Connor, N., Tisserand, Y., Chatzitofis, A., Destelle, F., Goenetxea, J., Unzueta, L., Zarpalas, D., Daras, P., Linaza, M., Moran, K. & others (2014). "Interactive games for preservation and promotion of sporting movements." 2014 22nd European signal processing conference (EUSIPCO). 351--355.'
 bibtexname: "o2014interactive"
+projects: 
+  - "CulturalHeritage"
+
 ---
 
 ![o2014interactive GIF]({{ '/files/o2014interactive.png' | absolute_url }})

@@ -65,6 +65,14 @@
     {% elsif post.slidesurl %}
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% endif %}
+{% if post.projects %}
+  <h4>Related Projects</h4>
+  <ul>
+    {% for project in post.projects %}
+      <li>{{ project }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}
 
   </article>
 </div>

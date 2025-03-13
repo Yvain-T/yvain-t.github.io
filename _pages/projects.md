@@ -1,30 +1,17 @@
 ---
-layout: archive
+layout: default
 title: "Projects"
 permalink: /projects/
 ---
 
 <h1>Projects</h1>
 
-{% assign projects = "" | split: "," %}
+{% assign sorted_projects = site.projects | sort: "index" %}
 
-<!-- Collect all unique projects -->
-{% for post in site.publications %}
-  {% for project in post.projects %}
-    {% unless projects contains project %}
-      {% assign projects = projects | push: project %}
-    {% endunless %}
-  {% endfor %}
-{% endfor %}
-
-<!-- Display projects and related publications -->
-{% for project in projects %}
-  <h2>{{ project }}</h2>
-  <ul>
-    {% for post in site.publications %}
-      {% if post.projects contains project %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+{% for project in sorted_projects %}
+  <div>
+    <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+    <img src="{{ project.image }}" alt="{{ project.title }}" style="max-width: 200px;">
+    <p>{{ project.abstract }}</p>
+  </div>
 {% endfor %}

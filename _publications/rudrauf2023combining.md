@@ -28,7 +28,7 @@ Relating explicit psychological mechanisms and observable behaviours is a centra
  - Grégoire Sergeant-Perhtuis
  - Yvain Tisserand
  - Teerawat Monnor
- - V De Gevigney
+ - Valentin De Gevigney
  - Olivier Belli
 
 ```bibtex

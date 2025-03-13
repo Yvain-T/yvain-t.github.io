@@ -4,7 +4,6 @@ title: "Projects"
 permalink: /projects/
 ---
 
-<h1>Projects</h1>
 
 {% assign sorted_projects = site.projects | sort: "index" %}
 

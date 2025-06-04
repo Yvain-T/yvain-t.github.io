@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 # Welcome
+**Yvain Tisserand** is a senior researcher and computer scientist specializing in computer graphics and affective computing. His research focuses on the creation and simulation of **Virtual Humans**, particularly in immersive VR environments. His work spans a range of projects, from modeling emotional facial expressions to simulating virtual clothing for industrial applications.
 
-I’m **Yvain Tisserand**, a senior researcher and computer scientist with a background in **computer graphics** and **affective computing**. My main research interest lies in the creation and simulation of **Virtual Humans**, particularly within **immersive VR applications**. Over the years, I have contributed to various projects and research endeavors, ranging from emotional facial expression modeling to virtual clothing simulations for industrial use cases.
+Building on his PhD research at the University of Geneva, "*Fast Prototyping and Deformation of Virtual Humans*", Yvain combines core computer science skills with advanced VR technologies to create believable, responsive digital characters. These Virtual Humans are designed as research tools across domains including psychology, medical training, cultural heritage, and interactive user experiences.
 
-Drawing on my PhD work at the University of Geneva *“Fast Prototyping and Deformation of Virtual Humans”*, I integrate **computer science** fundamentals (C++, C#, OpenCV, and more) with cutting-edge **VR** technologies (Oculus Rift, HTC Vive, motion capture systems) to develop believable and responsive digital characters. These **Virtual Humans** often serve as research platforms for psychological studies, medical training, cultural heritage preservation, and novel user-interaction paradigms.
 
 ---
 

@@ -15,11 +15,11 @@ projects:
   - "Vision"
 ---
 
-Here is an animated demonstration of the paper in action:
 
 ![hinrichs2025wide GIF]({{ '/files/hinrichs2025wide.png' | absolute_url }})
 
-Some more details about the paper go here.
+This study explores how visual field size in simulated artificial vision affects social perception in virtual reality. Sighted participants completed tasks involving social cue recognition, tracking, and navigation. A 45-degree visual field significantly improved accuracy, speed, and self-assessment in social tasks compared to a 20-degree field, especially in structured environments. The findings underscore the value of a wider visual field for enhancing social interactions in artificial vision systems.
+
 
 **Authors:**
  - Sandrine Hinrichs

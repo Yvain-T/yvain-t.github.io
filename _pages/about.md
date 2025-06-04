@@ -10,7 +10,7 @@ redirect_from:
 # Welcome
 I’m a senior researcher and computer scientist specializing in *computer graphics* and *affective computing*, currently based at the **Swiss Center for Affective Sciences (CISA)** at the **University of Geneva**. My research focuses on the creation and simulation of **Virtual Humans**, particularly within immersive VR environments.
 
-Over the years, I’ve worked on a range of projects—from modeling emotional facial expressions to simulating virtual clothing for industrial applications. Building on my PhD work at the University of Geneva, *"Fast Prototyping and Deformation of Virtual Humans"*, I combine core computer science skills with advanced VR technologies to develop believable, responsive digital characters. These **Virtual Humans** serve as research tools across various domains, including psychology, medical training, cultural heritage, and novel forms of user interaction.
+Over the years, I’ve worked on a range of projects, from modeling emotional facial expressions to simulating virtual clothing for industrial applications. Building on my PhD work at the University of Geneva, *"Fast Prototyping and Deformation of Virtual Humans"*, I combine core computer science skills with advanced VR technologies to develop believable, responsive digital characters. These **Virtual Humans** serve as research tools across various domains, including psychology, medical training, cultural heritage, and novel forms of user interaction.
 
 
 

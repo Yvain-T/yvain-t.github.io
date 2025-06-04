@@ -13,7 +13,7 @@ citation: 'Zavlanou, C., Huber, P., Tisserand, Y., Rudrauf, D. & Lanitis, A. (20
 bibtexname: "zavlanou2021procedurally"
 projects: 
   - "VirtualReality"
-  - "Medical"
+  - "Vision"
 
 
 ---

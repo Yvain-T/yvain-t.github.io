@@ -1,0 +1,10 @@
+projects: 
+  - "VirtualClothing"
+  - "VirtualHuman"
+  - "CulturalHeritage"
+  - "ConsciousnessModel"
+  - "VirtualReality"
+  - "ClimateChange"
+  - "Medical"
+  - "Vision"
+  - "PoliceTraining"
